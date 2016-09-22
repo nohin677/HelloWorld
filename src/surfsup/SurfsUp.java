@@ -21,6 +21,7 @@ public class SurfsUp {
         System.out.println("How high are the waves? (In feet)");
         Scanner sc = new Scanner(System.in);
         double waveHeight = sc.nextDouble();
+        //I am batman
         
         //if the waveHeight is equal to or greater than 6 feet this message is displayed.
         if(waveHeight >= 6){
